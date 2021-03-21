@@ -1,0 +1,12 @@
+name = "NormalSplines"
+uuid = "89968063-813d-4860-bc5c-8f3bf1ba74c5"
+keywords = ["interpolation", "splines", "normal-splines", "hilbert-spaces", "rkhs"]
+authors = ["Igor Kohanovsky <nettvor@gmail.com>"]
+version = "1.0.3"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1"
